@@ -4,7 +4,7 @@ const Product = require("../models/Product.model");
 // GET "/products"
 router.get("/", async (req, res, next) => {
   try {
-    const allProducts = await Product.find().select("name", "price", "image");
+    const allProducts = await Product.find().select({name: 1, price: 1, image: 1});
     res.json(allProducts);
   } catch (error) {
     next(error);
@@ -62,12 +62,13 @@ router.delete("/:productId", async (req, res, next) => {
 });
 
 // PATCH "/product/:productId/addcart" -> Update product to User Shopping Cart
+// TODO FALTA INTRODUCIR EL ID DEL USER
 router.patch("/:productId/addcart", async (req, res, next) => {
     const {productId} = req.params
 
     try {
         const addProductToCart = await User.findByIdAndUpdate(userId, {$push: {shoppingCart: productId}})
-        res.json(addProductToCart)
+        res.json("product added")
     } catch (error) {
         next(error)
     }
