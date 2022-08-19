@@ -5,7 +5,9 @@ const productSchema = new Schema(
     name: String,
     description: [String],
     price: Number,
-    image: String,
+    image: {
+      type: String,
+    },
     categorie: {
       type: String,
       enum: [

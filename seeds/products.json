@@ -3,283 +3,217 @@
         "name": "Corsair RM850x 850 W GOLD",
         "description": ["Fully modular, so you only connect the cables that your system needs.", "A 135mm ML fan utilizes a magnetic levitation bearing and custom engineered rotors for high performance, low noise, and superior reliability.", "EPS12V connector for compatibility with modern graphics cards and motherboards.", "100% Industrial-grade, 105°C rated Japanese capacitors ensure unwavering power and reliability.", "Supports Modern Standby sleep mode for extremely fast wake-from-sleep times and better low-load efficiency.", "Zero RPM fan mode for near-silent operation at low to medium loads.", "Resonant LLC topology with DC-to-DC conversion provides clean, consistent power, reduces coil whine for quieter operation, and enables use of more energy efficient sleep states.", "Ten-year warranty for complete peace of mind."],
         "price": 149.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "EVGA 700 BR 80+ Bronze 700W",
         "description": ["EVGA 700 br Bronze reliability","80 plus Bronze certified, with 85 percent efficiency or higher under typical loads","Heavy duty protections, including OVP, UVP, OCP, OPP, SCP and OTP"],
         "price": 79.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "Corsair RM850x 750 W GOLD",
         "description": ["Fully modular, so you only connect the cables that your system needs.", "A 135mm ML fan utilizes a magnetic levitation bearing and custom engineered rotors for high performance, low noise, and superior reliability.", "EPS12V connector for compatibility with modern graphics cards and motherboards.", "100% Industrial-grade, 105°C rated Japanese capacitors ensure unwavering power and reliability.", "Supports Modern Standby sleep mode for extremely fast wake-from-sleep times and better low-load efficiency.", "Zero RPM fan mode for near-silent operation at low to medium loads.", "Resonant LLC topology with DC-to-DC conversion provides clean, consistent power, reduces coil whine for quieter operation, and enables use of more energy efficient sleep states.", "Ten-year warranty for complete peace of mind."],
         "price": 129.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "EVGA 750 BR 80+ Bronze 750W",
         "description": ["EVGA 750 BQ Great Quality, Great Value","80 PLUS Bronze certified, with 85percentage efficiency or higher under typical loads","Fan Size / Bearing: 140mm Teflon Nano Steel Bearing Quiet and Intelligent Auto Fan for near silent operation", "Heavy duty protections, including OVP, UVP, OCP, OPP, and SCP"],
         "price": 99.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "Cougar vte500 80 + Bronze",
         "description": ["Extremely high efficiency, up to 87% of efficiency", "Ultra-stable Voltage output, 3.3V DC-DC technology for enhanced Voltage ability", "Support the newest specifications of ATX12V Created for usage with current and next-generation multi-core CPU platforms", "Ultra-quiet & temperature-controlled 120mm fan", "Massive single 12V DC output"],
         "price": 69.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "ASUS ROG STRIX 1000W Gold",
         "description": ["ROG heatsinks cover critical components. Lower temps result in a longer lifespan and reduced noise", "Axial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure","Dual ball fan bearings can last up to twice as long as sleeve bearing designs", "0dB Technology lets you enjoy light gaming in relative silence", "An 80 Plus Gold Certification is the result of Japanese capacitors and other premium components","Cosmetic customization is enabled by a magnetic logo and stickers that help you reskin the visible side to your liking", "Fully modular cables keep your rig neat and tidy", "10-year warranty included"],
         "price": 229.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "Cooler Master MWE White 650 80+",
         "description": ["Single +12V Rail: The power source is monitored on a single circuit, ensuring consistent output through all connected cables.", "DC-to-DC Technology: The DC-to-DC + LLC circuit design offers reliable, stable output to all connected components.", "120mm HDB Fan: Employs a responsive fanspeed control, limiting noise to specific cooling requirements during use.", "Silent Mode: The fan will not spin under lower loads or standby, ensuring a quiet user experience.", "Flat Black Cables: Flat cables to take up less space for easier cable management."],
         "price": 69.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "EVGA 600W 80 Plus",
         "description": ["Quiet and Intelligent Auto Fan for near-silent operation", "Heavy-duty protections, including OVP (Over Voltage Protection), UVP (Under Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and OTP (Over Temperature Protection)", "3 Year Warranty"],
         "price": 54.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "Cougar CMX Series 80 Plus Bronze",
         "description": ["COUGAR Cougar CMX700V3 / CMX 700 COUGAR-700CMX 700W ATX12V / EPS12V SLI Ready CrossFire Ready 80 PLUS BRONZE Certified, flexible cable management Active PFC Power Supply Haswell ready"],
         "price": 99.90,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "power-supply"
     },
     {
         "name": "ASUS ROG Strix B550-F Gaming AMD",
         "description": ["AMD AM4 Socket and PCIe 4. 0: The perfect pairing for Zen 3 Ryzen 5000 & 3rd Gen AMD Ryzen CPUs", "Robust Power Design: 12plus2 DrMOS power stages with high-quality alloy chokes and durable capacitors provide reliable power for the last AMD high-count-core CPUs", "Optimized Thermal Solution: Fanless VRM and chipset heatsinks with ASUS Stack Cool 3plus design keep your system running reliably under heavy load by enhancing passive cooling capacity for critical onboard components.", "High-performance Gaming Networking: 2. 5 Gb LAN with ASUS LANGuard", "Best Gaming Connectivity: Supports HDMI 2. 1(4Kat60HZ) and DisplayPort 1. 2 output, featuring dual M. 2 slots (NVMe SSD)—one with PCIe 4. 0 x4 connectivity, USB 3. 2 Gen 2 Type-C port and Thunderbolt 3 header"],
         "price": 199.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "ASUS Prime B450M-A II AMD AM4",
         "description": ["AMD AM4 Socket : Compatible to Ryzen 5000, 3rd/2nd/1st Gen AMD Ryzen CPUs", "Designed for Productivity: USB 3.2 Gen 2 with 10Gbps ultra-fast transfer speed, onboard M.2 support, 4xDIMMs support up to 128GB DDR4 with 4400 (O.C.) performance, HDMI 2.0b/DVI/D-Sub", "Optimized Cooling: VRM and PCH heatsink with extensive surface, thermal pads help transfer heat from the inductor and phase array to the heatsink. Flexible fan controls for ultimate cooling and quietness with ASUS exclusive Fan Xpert 2 plus", "Built to Last: all-round protection with LANGuard, DRAM overcurrent protection, overvoltage protection, SafeSlot Core safeguards and stainless-steel back I/O, 1000 plus compatible devices, 8000 plus Validation Hours", "PC DIY Friendly: With BIOS Flashback and ASUS exclusive UEFI BIOS", "Outstanding Gaming Audio: Dedicated audio PCB layers, premium Japanese audio capacitors, and audio shielding ensures precision analog/digital separation and greatly reduced multi-lateral interference.", "Aura Sync RGB and Armoury Crate Utility: with ASUS Armoury Crate synchronizing LED effects across a wide range of compatible PC gear, plus RGB LED and RGB header for greater customization", "Please ensure your BIOS is up to date if installing a compatible Ryzen 5000 series CPU. Visit ASUS site search by motherboard model name, click on “Support” tab, Drivers and Tools, then BIOS and Firmware to download the latest BIOS."],
         "price": 79.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "MSI MAG B550 TOMAHAWK Gaming Motherboard",
         "description": ["Support for 3rd Gen AMD Ryzen processors and future AMD Ryzen processors with BIOS update", "Supports dual channel DDR4 memory up to 128 GB (4866 MHz)", "On-board dual LAN: 2.5G LAN plus Gigabit LAN", "Mystic Light: RGB LED lighting and extendable pin headers – 16.8 million colors / 29 effects", "Audio Boost rewards your ears with studio grade sound quality for immersive gaming experiences", "Premium Thermal Solution: Aluminum Cover with additional choke thermal pad rated for 7W/mk and PCB with 2 ounce thickened copper", "Lightning Fast Game Experience: PCIe 4.0, Lightning Gen 4 M.2 with M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2"],
         "price": 189.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "GIGABYTE B450 AORUS PRO Wi-Fi",
         "description": ["Supports AMD 1st & 2nd generation Ryzen/ Ryzen with Radeon Vega graphics processors", "Dual channel non-ECC unbuffered DDR4, 4 DIMMs", "Intel Ethernet LAN plus Dual band 802.11AC Wi-Fi", "Dual PCIe Gen3 M.2 NVMe with dual thermal guards", "Alc1220 vb enhanced audio with WIMA capacitors. Support for 11AC 160MHz wireless standard and up to 1.73 Gaps data rate. Intel WI-FI driver only support for Win10 64bit", "RGB Fusion with digital LED & RGB LED headers", "Smart fan 5 with fan stop", "USB 3.1 Gen 2 with USB type C & type A", "Integrated I/O shield of ultra-durable design"],
         "price": 139.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "Gigabyte A520I AC",
         "description": ["Supports 3rd Gen AMD Ryzen Processors AMD AM4 Socket", "Dual Channel DDR4, 2 DIMMs", "Optimized VRM Heatsink", "Direct 6 Phases Digital PWM with 55A DrMOS", "PCIe 3.0 x16 Slot.1x NVMe PCIe 3.0 x4 M.2 Slot.ALC887 Audio Codec.Blazing Fast 1GbE LAN.Intel Dual Band AC WiFi and Bluetooth with Ultra Durable Antenna.Rear DP and 2x HDMI Support"],
         "price": 119.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "GIGABYTE X570S AORUS Master",
         "description": ["Supports AMD Ryzen 5th Gen/ 4th Gen/ 3rd Gen/ 2nd Gen", "Dual Channel ECC/ Non-ECC Unbuffered DDR4, 4 DIMMs", "Direct 14 plus2 Phases Infineon Digital VRM Solution with 70A Power Stage", "Advanced Thermal Solution with Fins-Array II, Direct Touch Heatpipe II, M.2 Thermal Guard III and Thermal Backplate", "Intel WiFi 6E 802.11ax & BT 5.2"],
         "price": 389.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "MSI MPG B560I Gaming Edge",
         "description": ["Supports 11th and 10th Gen Intel Core/Pentium/Celeron processors for LGA 1200 Socket", "Supports DDR4 Memory, up to 5200(OC) MHz", "Lightning Fast Game experience: PCIe 4.0, Lightning Gen 4 x4 M.2, USB 3.2 Gen 2", "Enhanced Power Design: 6+2+1 direct power design, 8-pin CPU power connectors, Core Boost, DDR4 Boost", "2.5G LAN with LAN Manager and Intel Wi-Fi 6E Solution: Upgraded network solution for professional and multimedia use. Delivers a secure, stable and fast network connection"],
         "price": 169.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "GIGABYTE X570 AORUS Elite",
         "description": ["Supports AMD 3rd Gen Ryzen/ 2nd Gen Ryzen/ 2nd Gen Ryzen with Radeon Vega Graphics/ Ryzen with Radeon Vega Graphics processors", "Dual channel non-ECC unbuffered DDR4, 4 DIMMs", "12 plus 2 phases digital VRM solution with DrMOS", "Advanced heatsink design with enlarge heatsink", "Dual ultra-fast NVMe PCIe 4.0/3.0 x4 M.2 with single thermal guards", "Memory storage capacity: 1000 TB"],
         "price": 219.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "ASUS Prime Z590-A LGA 1200",
         "description": ["Intel LGA 1200 Socket: Designed to unleash the maximum performance of 11th Gen Intel Core processors", "AI Motherboard : AI overclocking, AI cooling and AI noise cancelation", "Enhanced Power Solution: 14plus2 DrMOS power stages, ProCool sockets, alloy chokes and durable capacitors for stable power delivery in the most demanding situations", "Comprehensive Cooling: VRM heatsink, PCH heatsink, hybrid fan headers and Fan Xpert 4 utility", "Boosted Memory Performance: Careful routing of traces and vias, plus ground layer optimizations to preserve signal integrity for improved memory overclocking with ASUS OptiMem II"],
         "price": 199.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "motherboard"
     },
     {
         "name": "Western Digital 4TB WD Blue PC Hard Drive HDD",
         "description": ["Reliable everyday computing", "Western Digital quality and reliability", "Free Acronis True Image WD Edition cloning software", "Massive capacity up to 6TB"],
         "price": 63.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Western Digital 3TB WD Blue PC Hard Drive HDD",
         "description": ["Reliable everyday computing", "Western Digital quality and reliability", "Free Acronis True Image WD Edition cloning software", "Massive capacity up to 6TB"],
         "price": 58.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Western Digital 2TB WD Blue PC Hard Drive HDD",
         "description": ["Reliable everyday computing", "Western Digital quality and reliability", "Free Acronis True Image WD Edition cloning software", "Massive capacity up to 6TB"],
         "price": 46.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Toshiba X300 4TB Performance & Gaming 3.5",
         "description": ["Designed for gaming PC and high-end desktop workstations", "High Performance with 7200 RPM and large cache size", "Massive capacity to accommodate large gaming libraries", "Toshiba's cache technology to deliver high-level performance in real time", "Ramp loading technology and shock sensor for reliability"],
         "price": 109.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Toshiba X300 6TB Performance & Gaming 3.5",
         "description": ["Designed for gaming PC and high-end desktop workstations", "High Performance with 7200 RPM and large cache size", "Massive capacity to accommodate large gaming libraries", "Toshiba's cache technology to deliver high-level performance in real time", "Ramp loading technology and shock sensor for reliability"],
         "price": 164.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Toshiba X300 8TB Performance & Gaming 3.5",
         "description": ["Designed for gaming PC and high-end desktop workstations", "High Performance with 7200 RPM and large cache size", "Massive capacity to accommodate large gaming libraries", "Toshiba's cache technology to deliver high-level performance in real time", "Ramp loading technology and shock sensor for reliability"],
         "price": 209.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "HDD"
     },
     {
         "name": "Western Digital 1TB WD Blue",
         "description": ["Upgrade your creativity with a performance boost that delivers read speeds up to 560MB/s(2) (500GB(1) and 1TB(1) models).", "Give your PC new life with capacities of up to 1TB(1) and high endurance, plus low power draw for more laptop life between charges and reduced vibrations compared to HDDs.", "Clone your computer’s entire hard drive to your WD Blue SA510 drive with the included Acronis True Image for Western Digital transfer and backup software(3) featuring cyber protection.", "The WD Blue SA510 SATA SSD comes in 2.5 and M.2 form factors for increased compatibility, fitting right into many current PC slots as well as those of many older machines.", "(1) 1GB = 1 billion bytes and 1TB = 1 trillion bytes. Actual user capacity may be less depending on operating environment. | (2) Based on read speed. 1 MB/s = 1 million bytes per second. Based on internal testing; performance may vary depending upon host device, usage conditions, drive capacity, and other factors. | (3) Download and installation required. Includes 5-year license for your compatible drive. Redeem within 90 days of purchase. May not be combined with other offers. Limited time offer; see Western Digital website for more details. Offer subject to change."],
         "price": 99.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "Samsung Electronics 870 EVO 250GB",
         "description": ["The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology", "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer", "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw", "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"],
         "price": 59,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "Samsung Electronics 870 EVO 500GB",
         "description": ["The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology", "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer", "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw", "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"],
         "price": 94.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "Samsung Electronics 870 EVO 1TB",
         "description": ["The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology", "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer", "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw", "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"],
         "price": 149.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "Samsung Electronics 870 EVO 2TB",
         "description": ["The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology", "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer", "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw", "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"],
         "price": 259.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "Samsung Electronics 870 EVO 4TB",
         "description": ["The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology", "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer", "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw", "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"],
         "price": 449.99,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "SSD"
     },
     {
         "name": "",
         "description": [""],
         "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
-        "categorie": "graphic-card"
-    },
-    {
-        "name": "",
-        "description": [""],
-        "price": 0,
-        "image": "",
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
         "categorie": "graphic-card"
     }
-    
-    
-    
 ]

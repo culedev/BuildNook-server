@@ -13,4 +13,15 @@ router.get("/", isAuthenticated, async (req, res, next) => {
     }
 })
 
+// PATCH "/wishlist/:productId" -> Add product to wish-list
+router.patch("/:productId", isAuthenticated, async (req, res, next) => {
+    const {productId} = req.params
+    try {
+        await User.findByIdAndUpdate(req.payload._id, {$addToSet: {wishList: productId}})
+        res.json("Product added to wish list")
+    } catch (error) {
+        next(error)
+    }
+})
+
 module.exports = router;

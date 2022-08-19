@@ -63,16 +63,15 @@ router.delete("/:productId", isAuthenticated, async (req, res, next) => {
   }
 });
 
-// PATCH "/products/:productId/addcart" -> Update product to User Shopping Cart
-// TODO FALTA INTRODUCIR EL ID DEL USER
-router.patch("/:productId/addcart", isAuthenticated, async (req, res, next) => {
-    const {productId} = req.params
-
-    try {
-        const addProductToCart = await User.findByIdAndUpdate(req.payload._id, {$push: {shoppingCart: productId}})
-        res.json("product added")
-    } catch (error) {
-        next(error)
-    }
+// GET "/products/:categorie" -> Filter products by categorie
+router.get("/:categorie", async (req,res,next) => {
+  const {categorie} = req.params
+  try {
+    const filteredProducts = await Product.find({categorie: categorie})
+    res.json(filteredProducts)
+  } catch (error) {
+    next(error)
+  }
 })
+
 module.exports = router;
