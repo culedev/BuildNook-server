@@ -2,7 +2,7 @@ const router = require("express").Router();
 const User = require("../models/User.model");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
-const isAuthenticated = require("../middlewares/isAuthenticated")
+const isAuthenticated = require("../middlewares/isAuthenticated");
 
 // POST "/auth/signup" -> Register user
 router.post("/signup", async (req, res, next) => {
@@ -72,16 +72,15 @@ router.post("/login", async (req, res, next) => {
     }
 
     const payload = {
-        _id: foundUser._id,
-        email: foundUser.email,
-    }
+      _id: foundUser._id,
+      email: foundUser.email,
+    };
 
-    const authToken = jwt.sign(
-        payload,
-        process.env.TOKEN_SECRET,
-        {algorithm: "HS256", expiresIn: "24h"}
-    )
-    res.json({authToken: authToken})
+    const authToken = jwt.sign(payload, process.env.TOKEN_SECRET, {
+      algorithm: "HS256",
+      expiresIn: "192h",
+    });
+    res.json({ authToken: authToken });
   } catch (error) {
     next(error);
   }
@@ -89,8 +88,7 @@ router.post("/login", async (req, res, next) => {
 
 // GET "/auth/verify" => Verifies if user is active (Used for FE logic)
 router.get("/verify", isAuthenticated, (req, res, next) => {
-    console.log(req.payload)
-    res.json(req.payload)
-})
+  res.json(req.payload);
+});
 
 module.exports = router;

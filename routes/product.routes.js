@@ -1,11 +1,13 @@
 const router = require("express").Router();
 const Product = require("../models/Product.model");
+const isAuthenticated = require("../middlewares/isAuthenticated");
 
 // GET "/products"
 router.get("/", async (req, res, next) => {
   try {
-    const allProducts = await Product.find().select({name: 1, price: 1, image: 1});
+    const allProducts = await Product.find().select({name: 1, price: 1, image: 1, categorie: 1});
     res.json(allProducts);
+
   } catch (error) {
     next(error);
   }
@@ -33,7 +35,7 @@ router.post("/", async (req, res, next) => {
 });
 
 // PATCH "/products/:productId" -> Edit product
-router.patch("/:productId", async (req, res, next) => {
+router.patch("/:productId", isAuthenticated, async (req, res, next) => {
   const { name, description, price, image } = req.body;
   const { productId } = req.params;
 
@@ -51,7 +53,7 @@ router.patch("/:productId", async (req, res, next) => {
 });
 
 // DELETE "/products/:productId" -> Delete product
-router.delete("/:productId", async (req, res, next) => {
+router.delete("/:productId", isAuthenticated, async (req, res, next) => {
   const { productId } = req.params;
   try {
     await Product.findByIdAndDelete(productId);
@@ -61,13 +63,13 @@ router.delete("/:productId", async (req, res, next) => {
   }
 });
 
-// PATCH "/product/:productId/addcart" -> Update product to User Shopping Cart
+// PATCH "/products/:productId/addcart" -> Update product to User Shopping Cart
 // TODO FALTA INTRODUCIR EL ID DEL USER
-router.patch("/:productId/addcart", async (req, res, next) => {
+router.patch("/:productId/addcart", isAuthenticated, async (req, res, next) => {
     const {productId} = req.params
 
     try {
-        const addProductToCart = await User.findByIdAndUpdate(userId, {$push: {shoppingCart: productId}})
+        const addProductToCart = await User.findByIdAndUpdate(req.payload._id, {$push: {shoppingCart: productId}})
         res.json("product added")
     } catch (error) {
         next(error)
