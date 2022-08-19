@@ -74,4 +74,16 @@ router.get("/:categorie", async (req,res,next) => {
   }
 })
 
+// GET "/products/:productId/details" -> get product details
+router.get("/:productId/details", async (req, res, next) => {
+  const {productId} = req.params
+
+  try {
+    const productDetails = await Product.findById(productId)
+    res.json(productDetails)
+  } catch (error) {
+    next(error)
+  }
+})
+
 module.exports = router;
