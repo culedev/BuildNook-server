@@ -26,6 +26,7 @@ const userSchema = new Schema(
     },
     image: {
       type: String,
+      default: "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png"
     },
     isBanned: {
       type: Boolean,

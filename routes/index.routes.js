@@ -19,4 +19,7 @@ router.use("/wishlist", wishListRoutes)
 const transactionRoutes = require("./transaction.routes")
 router.use("/transaction", transactionRoutes)
 
+const reviewRoutes = require("./reviews.routes")
+router.use("/reviews", reviewRoutes)
+
 module.exports = router;
