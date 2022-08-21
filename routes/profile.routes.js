@@ -15,7 +15,8 @@ router.get("/", isAuthenticated, async (req, res, next) => {
         shoppingCart: 1,
         wishList: 1,
       })
-      .populate("shoppingCart");
+      .populate("shoppingCart")
+      .populate("wishList");
     res.json(foundUser);
   } catch (error) {
     next(error);

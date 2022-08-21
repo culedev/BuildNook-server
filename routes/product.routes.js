@@ -40,7 +40,7 @@ router.patch("/:productId", isAuthenticated, async (req, res, next) => {
   const { productId } = req.params;
 
   try {
-    const editProduct = await Product.findByIdAndUpdate(productId, {
+    await Product.findByIdAndUpdate(productId, {
       name,
       description,
       price,

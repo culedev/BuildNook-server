@@ -24,4 +24,15 @@ router.patch("/:productId", isAuthenticated, async (req, res, next) => {
     }
 })
 
+// PATCH "/wishlist/:productId/delete"
+router.patch("/:productId/delete", isAuthenticated, async (req, res, next) => {
+    const {productId} = req.params
+    try {
+        await User.findByIdAndUpdate(req.payload._id, {$pull: {wishList: productId}})
+        res.json("Product removed from wish list")
+    } catch (error) {
+        next(error)
+    }
+} )
+
 module.exports = router;
