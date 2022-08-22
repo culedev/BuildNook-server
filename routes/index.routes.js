@@ -22,4 +22,7 @@ router.use("/transaction", transactionRoutes)
 const reviewRoutes = require("./reviews.routes")
 router.use("/reviews", reviewRoutes)
 
+const uploadRoutes = require("./upload.routes")
+router.use("/upload", uploadRoutes)
+
 module.exports = router;

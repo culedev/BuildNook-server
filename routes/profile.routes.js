@@ -25,10 +25,9 @@ router.get("/", isAuthenticated, async (req, res, next) => {
 
 // PATCH "/profile" -> Edit profile details
 router.patch("/", isAuthenticated, async (req, res, next) => {
-  const { email, image, about } = req.body;
-
+  const { imageUrl } = req.body;
   try {
-    await User.findByIdAndUpdate(req.payload._id, { email, image, about });
+    await User.findByIdAndUpdate(req.payload._id, { image: imageUrl });
     res.json("User updated");
   } catch (error) {
     next(error);
