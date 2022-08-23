@@ -31,4 +31,15 @@ router.patch("/:productId", isAuthenticated, async (req, res, next) => {
   }
 });
 
+// DELETE "/transactions/:productId/delete" -> Delete product from shopping cart
+router.patch("/:productId/delete", isAuthenticated, async (req, res, next) => {
+  const {productId} = req.params
+    try {
+        await User.findByIdAndUpdate(req.payload._id, {$pull: {shoppingCart: productId}})
+        res.json("Product removed from shopping cart")
+    } catch (error) {
+        next(error)
+    }
+});
+
 module.exports = router;
