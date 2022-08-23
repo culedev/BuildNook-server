@@ -210,10 +210,192 @@
         "categorie": "SSD"
     },
     {
-        "name": "",
-        "description": [""],
-        "price": 0,
+        "name": "ZOTAC Gaming GeForce RTX™ 3060 Ti",
+        "description": ["NVIDIA Ampere architecture, 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores", "Boost Clock 1695 MHz, 8GB 256-bit GDDR6, 14 Gbps, PCIE 4.0; Low Hash Rate (LHR) 25 MH's ETH hash rate (est.)", "White LED Logo Lighting, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop, Metal Backplate", "8K Ready, 4 Display Ready, HDCP 2.3, VR Ready", "4 x DisplayPort 1.4a, 1 x HDMI 2.1, DirectX 12 Ultimate, Vulkan RT API, OpenGL 4.6"],
+        "price": 529.99,
         "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
-        "categorie": "graphic-card"
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "MSI Gaming Radeon RX 6800 16GB GDRR6",
+        "description": ["Chipset: Radeon RX 6800", "Video Memory: 16GB GDDR6", "Memory Interface: 256-bit", "Output: DisplayPort x 3 (v1.4) / HDMI 2.1 x 1", "Digital maximum resolution - 7680 x 4320"],
+        "price": 659.39,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6",
+        "description": ["New Turing Architecture", "4GB 128-bit GDDR6", "Super Compact 5.94-inch Card, Fits 99% of Systems", "Dual slot, 4K Ready, PCI Bus Powered", "DisplayPort 1.4, HDMI 2.0b, DL-DVI-D", "Boost Clock 1620 MHz"],
+        "price": 199.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB GDDR6",
+        "description": ["NVIDIA Ampere architecture, 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores", "12GB 192-bit GDDR6, 15 Gbps, PCIE 4.0; Boost Clock 1807 MHz", "IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop, Metal Backplate", "8K Ready, 4 Display Ready, HDCP 2.3, VR Ready", "3 x DisplayPort 1.4a, 1 x HDMI 2.1, DirectX 12 Ultimate, Vulkan RT API, OpenGL 4.6"],
+        "price": 442.08,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "GIGABYTE AORUS GeForce RTX 3070 Ti Master 8G",
+        "description": ["Digital Max Resolution:7680x4320.Form Factor:ATX", "NVIDIA Ampere Streaming Multiprocessors", "2nd Generation RT Cores", "3rd Generation Tensor Cores", "Powered by GeForce RTX 3070 Ti", "Integrated with 8GB GDDR6X 256-bit memory interface"],
+        "price": 979.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "MSI Gaming GeForce RTX 3050 8GB GDRR6",
+        "description": ["Chipset: GeForce RTX 3050", "Video Memory: 8GB GDDR6", "Memory Interface: 128-bit", "Output: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1", "Digital maximum resolution: 7680 x 4320"],
+        "price": 389.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "GIGABYTE GeForce RTX 3050 Gaming OC 8G",
+        "description": ["NVIDIA Ampere Streaming Multiprocessors", "2nd Generation RT Cores", "3rd Generation Tensor Cores", "Powered by GeForce RTX 3050", "Integrated with 8GB GDDR6 128-bit memory interface", "WINDFORCE 3X Cooling System with alternate spinning fans", "RGB Fusion 2.0", "Protective back plate", "2x HDMI 2.1, 2x Display Port 1.4a"],
+        "price": 379.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "GIGABYTE GeForce RTX 3070 Ti Gaming OC 8G",
+        "description": ["Digital Max Resolution:7680x4320.Form Factor:ATX", "NVIDIA Ampere Streaming Multiprocessors", "2nd Generation RT Cores", "3rd Generation Tensor Cores", "Powered by GeForce RTX 3070 Ti", "Integrated with 8GB GDDR6X 256-bit memory interface"],
+        "price": 849.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "MSI Computer Video Graphic Cards GeForce GTX 1050 TI GAMING X 4G",
+        "description": ["Chipset: NVIDIA GeForce GTX 1050 It", "Video memory: 4gb gddr5", "Memory interface: 128-bit; Cores: 768 units", "Max. resolution: 2560 x 1600 support 3x display monitors.", "Card dimension (millimeter): 229 x 131 x 39. Digital maximum resolution: 7680 x 4320"],
+        "price": 239.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "graphic-cards"
+    },
+    {
+        "name": "Corsair Vengeance LPX 16GB (2x8GB) 3200",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 65.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance LPX 16GB (2x16GB) 3200",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 114.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance LPX 64GB (2x 32GB) 3200",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 244.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance LPX 16GB (2x8GB) 3600",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 67.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance LPX 32GB (2x16GB) 3600",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 117.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance LPX 32GB (4x8GB) 3600",
+        "description": ["Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz", "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.", "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.", "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.", "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.", "Supports Intel XMP 2.0 for simple one-setting installation and setup.", "Available in multiple colors to match the style of your system"],
+        "price": 144.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200",
+        "description": ["Dynamic Multi-Zone RGB Lighting: 10 Ultra-bright RGB LEDs per module.", "Take control in CORSAIR iCUE software and synchronize lighting with other CORSAIR RGB products, including CPU coolers, keyboards and fans.", "Custom Performance PCB provides the highest signal quality for the greatest level of performance and stability.", "Tightly Screened Memory: Carefully screened ICs for extended overclocking potential.", "Maximum Bandwidth and Tight Response Times Optimized for peak performance on the latest Intel and AMD DDR4 motherboards.", "Requires no extra wires or cables for a clean and seamless install.", "Maximum bandwidth and tight response time Optimized on the latest AMD and Intel DDR4 motherboards", "Supports XMP 2.0: A single BIOS setting is all that’s required to set your memory to its ideal performance settings, for for optimum performance."],
+        "price": 132.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "G.Skill Trident Z NEO Series 128GB (4 x 32GB)",
+        "description": ["Trident Z NEO Series, designed specifically for AMD Ryzen X570 and TRX40 Series; Intel X299, Z390, Z490 and newer.", "128GB kit containing 4 x 32GB modules, DDR4-3600, 288-Pin, CAS Latency CL18 (18-22-22-42) at 1.35V", "Brand: G.SKILL, Series: Trident Z NEO, Model: F4-3600C18Q-128GTZN", "ECC: No, Quad Channel Kit, Recommended Use: High Performance or Gaming Memory", "XMP profile support to reach up to the rated overclock speed, or run at default JEDEC profile speed", "Rated XMP frequency & stability depends on MB & CPU capability"],
+        "price": 559.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Corsair Vengeance RGB Pro 64GB (4x16GB) DDR4 3200",
+        "description": ["High performance DDR4 memory illuminates your system with vivid, animated lighting from ten ultra-bright, individually addressable RGB LEDs per module.", "Take control with CORSAIR iCUE software and synchronize lighting across all your CORSAIR iCUE compatible products, including memory, fans, coolers, keyboards and more.", "Customize lighting profiles with millions of different patterns and colors, or create your own in CORSAIR iCUE software.", "Compatible with Intel and AMD DDR4 motherboards.", "Requires no extra wires or cables for a clean and seamless install.", "Supports Intel XMP 2.0 for simple one-setting installation and optimum performance."],
+        "price": 279.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "ram"
+    },
+    {
+        "name": "Bgears b-Voguish Gaming PC with Tempered Glass ATX ",
+        "description": ["Package weight : 15.3 Lbs", "5mm thickness tempered glass Side window panel", "Country of origin : China", "Support water-cooling front-240mm top-240mm rear-120mm"],
+        "price": 60.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "MUSETEX ATX PC Case Mid-Tower",
+        "description": ["The Choice of The Top Computer Case - MUSETEX NN8 has 6 ARGB fans supporting external expansion ARGB fan control board, and is equipped with superior magnetic tempered glass side doors. It is the best choice for you to create a high-end gaming desktop.", "Compatible with Different Radiator - The top of the pc case is designed to fit 240mm / 280mm radiators. After installing the Radiator, the original 2 fans at the top can be installed at the above the power supply compartment to achieve more powerful cooling effect. And the radiator can be connected to the ARGB controller through 5V 3PIN to achieve 6 fans sync color.", "More Storage Space - The mid tower pc case provides multiple hard drive fixed slots, supporting to install 4*SSD + 2*HDD or 5*SSD + 1*HDD."],
+        "price": 117.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "ASUS TUF Gaming GT501 Mid-Tower",
+        "description": ["Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel", "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points", "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water", "Vertical GPU expansion slot Plus 7 Traditional expansion Slots", "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"],
+        "price": 179.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "MUSETEX ATX PC Case with 6 Pcs 120mm ARGB Fans",
+        "description": ["Amazing Remote Control - MUSETEX MN6 comes with its own ARGB fan remote control. You can easily control the fan speed, ARGB color mode and brightness. And the coolest features that other brands can't let you experience - let the light sync with your music by turning on the music mode. The color of the ARGB fan changes with the sound of your music or game, and enjoy the fusion of visual and auditory pleasure!", "6 ARGB Fans - The MN6 case comes pre-installed with 6 ARGB fans, providing superior cooling performance. The more powerful ARGB comes in 16.8M colours and is motherboard SYNC with the MUSETEX dedicated ARGB control board pre-installed in the case. More color and fun can be to play with than normal RGB!", "Brilliant Customizable Lighting - Addressable ARGB LEDs controlled with 3 methods. 1.Remote Control: MN6-B PC Case is equipped with a unique music panel, music sync; 2.LED Button Control: 19 lighting colors for LED button on the I/O panel; 3.Motherboard Control: Only when the 5V3PIN cable on the control board is connected to the motherboard can the ARGB light synchronization be realized. (Note: 12V 4PIN motherboard is not suitable for motherboard control, Button control is recommended.)"],
+        "price": 99.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "Antec DF700 Flux, Mid Tower Computer Case, ATX Gaming Case",
+        "description": ["F-LUX Platform: Advanced case structure for excellent airflow + 5 x 120mm fans included", "ARGB & PWM Fan Controller", "Provide massive airflow to your components with room for up to 9 x 120mm fans", "Supports a high-end GPU and provides the best cooling for it", "Ready for a radiator up to 360mm in front, 360mm on top & 120mm in rear", "With room for 2.5” SSDs: 3 & 3.5” HDDs/2.5” SSDs (convertible): 3/2", "I/O panel dust plugs included"],
+        "price": 109.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "MUSETEX ATX PC Case Mid-Tower with 6pcs 120mm ARGB Fans",
+        "description": ["Amazing Remote Control - MUSETEX MN6 comes with its own ARGB fan remote control. You can easily control the fan speed, ARGB color mode and brightness. And the coolest features that other brands can't let you experience - let the light sync with your music by turning on the music mode. The color of the ARGB fan changes with the sound of your music or game, and enjoy the fusion of visual and auditory pleasure!", "6 ARGB Fans - The MN6 case comes pre-installed with 6 ARGB fans, providing superior cooling performance. The more powerful ARGB comes in 16.8M colours and is motherboard SYNC with the MUSETEX dedicated ARGB control board pre-installed in the case. More color and fun can be to play with than normal RGB!", "Brilliant Customizable Lighting - Addressable ARGB LEDs controlled with 3 methods. 1.Remote Control: MN6-B PC Case is equipped with a unique music panel, music sync; 2.LED Button Control: 19 lighting colors for LED button on the I/O panel; 3.Motherboard Control: Only when the 5V3PIN cable on the control board is connected to the motherboard can the ARGB light synchronization be realized. (Note: 12V 4PIN motherboard is not suitable for motherboard control, Button control is recommended.)"],
+        "price": 159.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "ASUS TUF Gaming GT501 Mid-Tower",
+        "description": ["Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel", "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points", "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water", "Vertical GPU expansion slot Plus 7 Traditional expansion Slots", "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"],
+        "price": 199.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "ASUS TUF Gaming GT501 Mid-Tower",
+        "description": ["Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel", "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points", "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water", "Vertical GPU expansion slot Plus 7 Traditional expansion Slots", "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"],
+        "price": 199.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
+    },
+    {
+        "name": "ASUS TUF Gaming GT501 Mid-Tower",
+        "description": ["Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel", "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points", "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water", "Vertical GPU expansion slot Plus 7 Traditional expansion Slots", "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"],
+        "price": 199.99,
+        "image": "https://www.sinrumbofijo.com/wp-content/uploads/2016/05/default-placeholder.png",
+        "categorie": "pc-tower"
     }
 ]
