@@ -2,18 +2,26 @@ const { Schema, model } = require("mongoose");
 
 const transactionSchema = new Schema(
   {
-    product: [{
+    product: [
+      {
         type: Schema.Types.ObjectId,
-        ref: "Product"
-    }], 
+        ref: "Product",
+      },
+    ],
     user: {
       type: Schema.Types.ObjectId,
       ref: "User",
     },
     isPaid: {
-        type: Boolean,
-        default: false,
-    }
+      type: Boolean,
+      default: false,
+    },
+    paymentIntent: {
+      type: String,
+    },
+    clientSecret: {
+      type: String,
+    },
   },
   {
     timestamps: true,

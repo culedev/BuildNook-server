@@ -34,4 +34,18 @@ router.patch("/", isAuthenticated, async (req, res, next) => {
   }
 });
 
+// GET "/profile/shopping-cart"
+router.get("/shopping-cart", isAuthenticated, async (req, res, next) => {
+  try {
+    const cartProducts = await User.findById(req.payload._id)
+      .select({
+        shoppingCart: 1,
+      })
+      .populate("shoppingCart")
+    res.json(cartProducts);
+  } catch (error) {
+    next(error);
+  }
+});
+
 module.exports = router;

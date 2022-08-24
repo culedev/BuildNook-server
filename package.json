@@ -18,7 +18,8 @@
     "mongoose": "^6.5.2",
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
-    "multer-storage-cloudinary": "^4.0.0"
+    "multer-storage-cloudinary": "^4.0.0",
+    "stripe": "^10.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
