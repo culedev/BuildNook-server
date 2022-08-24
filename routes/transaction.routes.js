@@ -103,4 +103,15 @@ router.patch("/", isAuthenticated, async (req, res, next) => {
     next(error);
   }
 });
+
+// GET "/transaction/all" -> Get all transactions
+router.get("/all", isAuthenticated, async (req, res, next) => {
+  try {
+    const allTransactions = await Transaction.find({user: req.payload._id}).populate("product")
+    const filteredTransactions = allTransactions.filter(transaction => transaction.isPaid)
+    res.json(filteredTransactions)
+  } catch (error) {
+    next(error)
+  }
+})
 module.exports = router;
