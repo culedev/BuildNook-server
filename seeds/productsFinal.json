@@ -1,0 +1,1162 @@
+[{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f4e"
+  },
+  "name": "Corsair RM850x 850 W GOLD",
+  "description": [
+    "Fully modular, so you only connect the cables that your system needs.",
+    "A 135mm ML fan utilizes a magnetic levitation bearing and custom engineered rotors for high performance, low noise, and superior reliability.",
+    "EPS12V connector for compatibility with modern graphics cards and motherboards.",
+    "100% Industrial-grade, 105°C rated Japanese capacitors ensure unwavering power and reliability.",
+    "Supports Modern Standby sleep mode for extremely fast wake-from-sleep times and better low-load efficiency.",
+    "Zero RPM fan mode for near-silent operation at low to medium loads.",
+    "Resonant LLC topology with DC-to-DC conversion provides clean, consistent power, reduces coil whine for quieter operation, and enables use of more energy efficient sleep states.",
+    "Ten-year warranty for complete peace of mind."
+  ],
+  "price": 149.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413373/buildnook-app/zrwhaxemnbgs86ionsyx.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413375886"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f4f"
+  },
+  "name": "EVGA 700 BR 80+ Bronze 700W",
+  "description": [
+    "EVGA 700 br Bronze reliability",
+    "80 plus Bronze certified, with 85 percent efficiency or higher under typical loads",
+    "Heavy duty protections, including OVP, UVP, OCP, OPP, SCP and OTP"
+  ],
+  "price": 79.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413402/buildnook-app/v222o24iczcchzyenxu9.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413404430"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f50"
+  },
+  "name": "Corsair RM850x 750 W GOLD",
+  "description": [
+    "Fully modular, so you only connect the cables that your system needs.",
+    "A 135mm ML fan utilizes a magnetic levitation bearing and custom engineered rotors for high performance, low noise, and superior reliability.",
+    "EPS12V connector for compatibility with modern graphics cards and motherboards.",
+    "100% Industrial-grade, 105°C rated Japanese capacitors ensure unwavering power and reliability.",
+    "Supports Modern Standby sleep mode for extremely fast wake-from-sleep times and better low-load efficiency.",
+    "Zero RPM fan mode for near-silent operation at low to medium loads.",
+    "Resonant LLC topology with DC-to-DC conversion provides clean, consistent power, reduces coil whine for quieter operation, and enables use of more energy efficient sleep states.",
+    "Ten-year warranty for complete peace of mind."
+  ],
+  "price": 129.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413415/buildnook-app/q5djbwy33mg4jnqxh5tx.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413416640"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f51"
+  },
+  "name": "EVGA 750 BR 80+ Bronze 750W",
+  "description": [
+    "EVGA 750 BQ Great Quality, Great Value",
+    "80 PLUS Bronze certified, with 85percentage efficiency or higher under typical loads",
+    "Fan Size / Bearing: 140mm Teflon Nano Steel Bearing Quiet and Intelligent Auto Fan for near silent operation",
+    "Heavy duty protections, including OVP, UVP, OCP, OPP, and SCP"
+  ],
+  "price": 99.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413431/buildnook-app/amkbq221rtw8qhjtj93a.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413432430"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f52"
+  },
+  "name": "Cougar vte500 80 + Bronze",
+  "description": [
+    "Extremely high efficiency, up to 87% of efficiency",
+    "Ultra-stable Voltage output, 3.3V DC-DC technology for enhanced Voltage ability",
+    "Support the newest specifications of ATX12V Created for usage with current and next-generation multi-core CPU platforms",
+    "Ultra-quiet & temperature-controlled 120mm fan",
+    "Massive single 12V DC output"
+  ],
+  "price": 69.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413446/buildnook-app/cqon87h8lvqsx6hfjke5.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413447818"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f53"
+  },
+  "name": "ASUS ROG STRIX 1000W Gold",
+  "description": [
+    "ROG heatsinks cover critical components. Lower temps result in a longer lifespan and reduced noise",
+    "Axial-tech fan design features a smaller fan hub that facilitates longer blades and a barrier ring that increases downward air pressure",
+    "Dual ball fan bearings can last up to twice as long as sleeve bearing designs",
+    "0dB Technology lets you enjoy light gaming in relative silence",
+    "An 80 Plus Gold Certification is the result of Japanese capacitors and other premium components",
+    "Cosmetic customization is enabled by a magnetic logo and stickers that help you reskin the visible side to your liking",
+    "Fully modular cables keep your rig neat and tidy",
+    "10-year warranty included"
+  ],
+  "price": 229.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413462/buildnook-app/jowae0nc9f5gh97p7lyp.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413464165"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f54"
+  },
+  "name": "Cooler Master MWE White 650 80+",
+  "description": [
+    "Single +12V Rail: The power source is monitored on a single circuit, ensuring consistent output through all connected cables.",
+    "DC-to-DC Technology: The DC-to-DC + LLC circuit design offers reliable, stable output to all connected components.",
+    "120mm HDB Fan: Employs a responsive fanspeed control, limiting noise to specific cooling requirements during use.",
+    "Silent Mode: The fan will not spin under lower loads or standby, ensuring a quiet user experience.",
+    "Flat Black Cables: Flat cables to take up less space for easier cable management."
+  ],
+  "price": 69.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413483/buildnook-app/h8hlrmbrbrxblle7foh9.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413484987"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f55"
+  },
+  "name": "EVGA 600W 80 Plus",
+  "description": [
+    "Quiet and Intelligent Auto Fan for near-silent operation",
+    "Heavy-duty protections, including OVP (Over Voltage Protection), UVP (Under Voltage Protection), OCP (Over Current Protection), OPP (Over Power Protection), SCP (Short Circuit Protection), and OTP (Over Temperature Protection)",
+    "3 Year Warranty"
+  ],
+  "price": 54.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413499/buildnook-app/lpjcuobvqh8feliak2wr.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413501256"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f56"
+  },
+  "name": "Cougar CMX Series 80 Plus Bronze",
+  "description": [
+    "COUGAR Cougar CMX700V3 / CMX 700 COUGAR-700CMX 700W ATX12V / EPS12V SLI Ready CrossFire Ready 80 PLUS BRONZE Certified, flexible cable management Active PFC Power Supply Haswell ready"
+  ],
+  "price": 99.9,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413516/buildnook-app/lwouel4ycwvlc0zgmzcs.jpg",
+  "categorie": "power-supply",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413518803"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f57"
+  },
+  "name": "ASUS ROG Strix B550-F Gaming AMD",
+  "description": [
+    "AMD AM4 Socket and PCIe 4. 0: The perfect pairing for Zen 3 Ryzen 5000 & 3rd Gen AMD Ryzen CPUs",
+    "Robust Power Design: 12plus2 DrMOS power stages with high-quality alloy chokes and durable capacitors provide reliable power for the last AMD high-count-core CPUs",
+    "Optimized Thermal Solution: Fanless VRM and chipset heatsinks with ASUS Stack Cool 3plus design keep your system running reliably under heavy load by enhancing passive cooling capacity for critical onboard components.",
+    "High-performance Gaming Networking: 2. 5 Gb LAN with ASUS LANGuard",
+    "Best Gaming Connectivity: Supports HDMI 2. 1(4Kat60HZ) and DisplayPort 1. 2 output, featuring dual M. 2 slots (NVMe SSD)—one with PCIe 4. 0 x4 connectivity, USB 3. 2 Gen 2 Type-C port and Thunderbolt 3 header"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413683/buildnook-app/nutcqikia0adb1kvzqvk.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413685094"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f58"
+  },
+  "name": "ASUS Prime B450M-A II AMD AM4",
+  "description": [
+    "AMD AM4 Socket : Compatible to Ryzen 5000, 3rd/2nd/1st Gen AMD Ryzen CPUs",
+    "Designed for Productivity: USB 3.2 Gen 2 with 10Gbps ultra-fast transfer speed, onboard M.2 support, 4xDIMMs support up to 128GB DDR4 with 4400 (O.C.) performance, HDMI 2.0b/DVI/D-Sub",
+    "Optimized Cooling: VRM and PCH heatsink with extensive surface, thermal pads help transfer heat from the inductor and phase array to the heatsink. Flexible fan controls for ultimate cooling and quietness with ASUS exclusive Fan Xpert 2 plus",
+    "Built to Last: all-round protection with LANGuard, DRAM overcurrent protection, overvoltage protection, SafeSlot Core safeguards and stainless-steel back I/O, 1000 plus compatible devices, 8000 plus Validation Hours",
+    "PC DIY Friendly: With BIOS Flashback and ASUS exclusive UEFI BIOS",
+    "Outstanding Gaming Audio: Dedicated audio PCB layers, premium Japanese audio capacitors, and audio shielding ensures precision analog/digital separation and greatly reduced multi-lateral interference.",
+    "Aura Sync RGB and Armoury Crate Utility: with ASUS Armoury Crate synchronizing LED effects across a wide range of compatible PC gear, plus RGB LED and RGB header for greater customization",
+    "Please ensure your BIOS is up to date if installing a compatible Ryzen 5000 series CPU. Visit ASUS site search by motherboard model name, click on “Support” tab, Drivers and Tools, then BIOS and Firmware to download the latest BIOS."
+  ],
+  "price": 79.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413708/buildnook-app/nukohizq20kasdmggnlu.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413709280"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f59"
+  },
+  "name": "MSI MAG B550 TOMAHAWK Gaming Motherboard",
+  "description": [
+    "Support for 3rd Gen AMD Ryzen processors and future AMD Ryzen processors with BIOS update",
+    "Supports dual channel DDR4 memory up to 128 GB (4866 MHz)",
+    "On-board dual LAN: 2.5G LAN plus Gigabit LAN",
+    "Mystic Light: RGB LED lighting and extendable pin headers – 16.8 million colors / 29 effects",
+    "Audio Boost rewards your ears with studio grade sound quality for immersive gaming experiences",
+    "Premium Thermal Solution: Aluminum Cover with additional choke thermal pad rated for 7W/mk and PCB with 2 ounce thickened copper",
+    "Lightning Fast Game Experience: PCIe 4.0, Lightning Gen 4 M.2 with M.2 Shield Frozr, AMD Turbo USB 3.2 GEN 2"
+  ],
+  "price": 189.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413719/buildnook-app/tmzkn8vapxzfnarrs7rd.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413721169"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5a"
+  },
+  "name": "GIGABYTE B450 AORUS PRO Wi-Fi",
+  "description": [
+    "Supports AMD 1st & 2nd generation Ryzen/ Ryzen with Radeon Vega graphics processors",
+    "Dual channel non-ECC unbuffered DDR4, 4 DIMMs",
+    "Intel Ethernet LAN plus Dual band 802.11AC Wi-Fi",
+    "Dual PCIe Gen3 M.2 NVMe with dual thermal guards",
+    "Alc1220 vb enhanced audio with WIMA capacitors. Support for 11AC 160MHz wireless standard and up to 1.73 Gaps data rate. Intel WI-FI driver only support for Win10 64bit",
+    "RGB Fusion with digital LED & RGB LED headers",
+    "Smart fan 5 with fan stop",
+    "USB 3.1 Gen 2 with USB type C & type A",
+    "Integrated I/O shield of ultra-durable design"
+  ],
+  "price": 139.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661413745/buildnook-app/uuzjntphbh8piegveklc.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661413747252"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5b"
+  },
+  "name": "Gigabyte A520I AC",
+  "description": [
+    "Supports 3rd Gen AMD Ryzen Processors AMD AM4 Socket",
+    "Dual Channel DDR4, 2 DIMMs",
+    "Optimized VRM Heatsink",
+    "Direct 6 Phases Digital PWM with 55A DrMOS",
+    "PCIe 3.0 x16 Slot.1x NVMe PCIe 3.0 x4 M.2 Slot.ALC887 Audio Codec.Blazing Fast 1GbE LAN.Intel Dual Band AC WiFi and Bluetooth with Ultra Durable Antenna.Rear DP and 2x HDMI Support"
+  ],
+  "price": 119.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414452/buildnook-app/mlkn65tq8p68vobqo0cx.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414453956"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5c"
+  },
+  "name": "GIGABYTE X570S AORUS Master",
+  "description": [
+    "Supports AMD Ryzen 5th Gen/ 4th Gen/ 3rd Gen/ 2nd Gen",
+    "Dual Channel ECC/ Non-ECC Unbuffered DDR4, 4 DIMMs",
+    "Direct 14 plus2 Phases Infineon Digital VRM Solution with 70A Power Stage",
+    "Advanced Thermal Solution with Fins-Array II, Direct Touch Heatpipe II, M.2 Thermal Guard III and Thermal Backplate",
+    "Intel WiFi 6E 802.11ax & BT 5.2"
+  ],
+  "price": 389.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414464/buildnook-app/lohaht8hp7aj1yq5y961.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414465909"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5d"
+  },
+  "name": "MSI MPG B560I Gaming Edge",
+  "description": [
+    "Supports 11th and 10th Gen Intel Core/Pentium/Celeron processors for LGA 1200 Socket",
+    "Supports DDR4 Memory, up to 5200(OC) MHz",
+    "Lightning Fast Game experience: PCIe 4.0, Lightning Gen 4 x4 M.2, USB 3.2 Gen 2",
+    "Enhanced Power Design: 6+2+1 direct power design, 8-pin CPU power connectors, Core Boost, DDR4 Boost",
+    "2.5G LAN with LAN Manager and Intel Wi-Fi 6E Solution: Upgraded network solution for professional and multimedia use. Delivers a secure, stable and fast network connection"
+  ],
+  "price": 169.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414477/buildnook-app/u52rxc1iatlmkczh6qid.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414478655"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5e"
+  },
+  "name": "GIGABYTE X570 AORUS Elite",
+  "description": [
+    "Supports AMD 3rd Gen Ryzen/ 2nd Gen Ryzen/ 2nd Gen Ryzen with Radeon Vega Graphics/ Ryzen with Radeon Vega Graphics processors",
+    "Dual channel non-ECC unbuffered DDR4, 4 DIMMs",
+    "12 plus 2 phases digital VRM solution with DrMOS",
+    "Advanced heatsink design with enlarge heatsink",
+    "Dual ultra-fast NVMe PCIe 4.0/3.0 x4 M.2 with single thermal guards",
+    "Memory storage capacity: 1000 TB"
+  ],
+  "price": 219.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414489/buildnook-app/pclhgjpci7exdp50pury.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414491738"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f5f"
+  },
+  "name": "ASUS Prime Z590-A LGA 1200",
+  "description": [
+    "Intel LGA 1200 Socket: Designed to unleash the maximum performance of 11th Gen Intel Core processors",
+    "AI Motherboard : AI overclocking, AI cooling and AI noise cancelation",
+    "Enhanced Power Solution: 14plus2 DrMOS power stages, ProCool sockets, alloy chokes and durable capacitors for stable power delivery in the most demanding situations",
+    "Comprehensive Cooling: VRM heatsink, PCH heatsink, hybrid fan headers and Fan Xpert 4 utility",
+    "Boosted Memory Performance: Careful routing of traces and vias, plus ground layer optimizations to preserve signal integrity for improved memory overclocking with ASUS OptiMem II"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414521/buildnook-app/h4sdfravksdsu2k2t98d.jpg",
+  "categorie": "motherboard",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414522940"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f60"
+  },
+  "name": "Western Digital 4TB WD Blue PC Hard Drive HDD",
+  "description": [
+    "Reliable everyday computing",
+    "Western Digital quality and reliability",
+    "Free Acronis True Image WD Edition cloning software",
+    "Massive capacity up to 6TB"
+  ],
+  "price": 63.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414545/buildnook-app/k4mamrxqr860dupw4vr2.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414546657"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f61"
+  },
+  "name": "Western Digital 3TB WD Blue PC Hard Drive HDD",
+  "description": [
+    "Reliable everyday computing",
+    "Western Digital quality and reliability",
+    "Free Acronis True Image WD Edition cloning software",
+    "Massive capacity up to 6TB"
+  ],
+  "price": 58.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414551/buildnook-app/hy4zcfmfgogxewkubcfl.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414552300"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f62"
+  },
+  "name": "Western Digital 2TB WD Blue PC Hard Drive HDD",
+  "description": [
+    "Reliable everyday computing",
+    "Western Digital quality and reliability",
+    "Free Acronis True Image WD Edition cloning software",
+    "Massive capacity up to 6TB"
+  ],
+  "price": 46.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414561/buildnook-app/sztcrjdowmqylolvjdku.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414563426"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f63"
+  },
+  "name": "Toshiba X300 4TB Performance & Gaming 3.5",
+  "description": [
+    "Designed for gaming PC and high-end desktop workstations",
+    "High Performance with 7200 RPM and large cache size",
+    "Massive capacity to accommodate large gaming libraries",
+    "Toshiba's cache technology to deliver high-level performance in real time",
+    "Ramp loading technology and shock sensor for reliability"
+  ],
+  "price": 109.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414573/buildnook-app/ryb13zmygccgghodwctl.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414576312"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f64"
+  },
+  "name": "Toshiba X300 6TB Performance & Gaming 3.5",
+  "description": [
+    "Designed for gaming PC and high-end desktop workstations",
+    "High Performance with 7200 RPM and large cache size",
+    "Massive capacity to accommodate large gaming libraries",
+    "Toshiba's cache technology to deliver high-level performance in real time",
+    "Ramp loading technology and shock sensor for reliability"
+  ],
+  "price": 164.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414584/buildnook-app/u2c0ist450bxxw8tpsqc.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414585746"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f65"
+  },
+  "name": "Toshiba X300 8TB Performance & Gaming 3.5",
+  "description": [
+    "Designed for gaming PC and high-end desktop workstations",
+    "High Performance with 7200 RPM and large cache size",
+    "Massive capacity to accommodate large gaming libraries",
+    "Toshiba's cache technology to deliver high-level performance in real time",
+    "Ramp loading technology and shock sensor for reliability"
+  ],
+  "price": 209.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414589/buildnook-app/y3qq59x07pjmojvvtep6.jpg",
+  "categorie": "HDD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414590801"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f66"
+  },
+  "name": "Western Digital 1TB WD Blue",
+  "description": [
+    "Upgrade your creativity with a performance boost that delivers read speeds up to 560MB/s(2) (500GB(1) and 1TB(1) models).",
+    "Give your PC new life with capacities of up to 1TB(1) and high endurance, plus low power draw for more laptop life between charges and reduced vibrations compared to HDDs.",
+    "Clone your computer’s entire hard drive to your WD Blue SA510 drive with the included Acronis True Image for Western Digital transfer and backup software(3) featuring cyber protection.",
+    "The WD Blue SA510 SATA SSD comes in 2.5 and M.2 form factors for increased compatibility, fitting right into many current PC slots as well as those of many older machines.",
+    "(1) 1GB = 1 billion bytes and 1TB = 1 trillion bytes. Actual user capacity may be less depending on operating environment. | (2) Based on read speed. 1 MB/s = 1 million bytes per second. Based on internal testing; performance may vary depending upon host device, usage conditions, drive capacity, and other factors. | (3) Download and installation required. Includes 5-year license for your compatible drive. Redeem within 90 days of purchase. May not be combined with other offers. Limited time offer; see Western Digital website for more details. Offer subject to change."
+  ],
+  "price": 99.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414601/buildnook-app/a54paini5kzo66aidabn.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414602368"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f67"
+  },
+  "name": "Samsung Electronics 870 EVO 250GB",
+  "description": [
+    "The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology",
+    "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer",
+    "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw",
+    "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"
+  ],
+  "price": 59,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414608/buildnook-app/l43xswkyhvxhx5t0kxlm.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414609475"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f68"
+  },
+  "name": "Samsung Electronics 870 EVO 500GB",
+  "description": [
+    "The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology",
+    "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer",
+    "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw",
+    "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"
+  ],
+  "price": 94.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414615/buildnook-app/ezn1kvsa950sadvgpidd.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414616226"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f69"
+  },
+  "name": "Samsung Electronics 870 EVO 1TB",
+  "description": [
+    "The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology",
+    "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer",
+    "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw",
+    "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"
+  ],
+  "price": 149.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414621/buildnook-app/qyxlkgirem5keosjemle.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414622898"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6a"
+  },
+  "name": "Samsung Electronics 870 EVO 2TB",
+  "description": [
+    "The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology",
+    "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer",
+    "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw",
+    "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"
+  ],
+  "price": 259.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414627/buildnook-app/ruiokbxyburimhf9nc2b.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414628444"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6b"
+  },
+  "name": "Samsung Electronics 870 EVO 4TB",
+  "description": [
+    "The Ssd All-Star: The Latest 870 Evo Has Indisputable Performance, Reliability And Compatibility Built Upon Samsung'S Pioneering Technology",
+    "Excellence In Performance: Enjoy Professional Level Ssd Performance With 870 Evo, Which Maximizes The Sata Interface Limit To 560/530 Mb/S Sequential Speeds, Accelerates Write Speeds And Maintains Long Term High Performance With A Larger Variable Buffer",
+    "Industry Defining Reliability: Meet The Demands Of Every Task From Everyday Computing To 8K Video Processing, With Up To 2,400 Tbw",
+    "More Compatible Than Ever: 870 Evo Has Been Compatibility Tested For Major Host Systems And Applications, Including Chipsets, Motherboards, Nas, And Video Recording Devices. Trim Support: Yes - Trim Supported"
+  ],
+  "price": 449.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414634/buildnook-app/oir9jwvq2mhryqwlrqvu.jpg",
+  "categorie": "SSD",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414635598"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6c"
+  },
+  "name": "ZOTAC Gaming GeForce RTX™ 3060 Ti",
+  "description": [
+    "NVIDIA Ampere architecture, 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores",
+    "Boost Clock 1695 MHz, 8GB 256-bit GDDR6, 14 Gbps, PCIE 4.0; Low Hash Rate (LHR) 25 MH's ETH hash rate (est.)",
+    "White LED Logo Lighting, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop, Metal Backplate",
+    "8K Ready, 4 Display Ready, HDCP 2.3, VR Ready",
+    "4 x DisplayPort 1.4a, 1 x HDMI 2.1, DirectX 12 Ultimate, Vulkan RT API, OpenGL 4.6"
+  ],
+  "price": 529.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414791/buildnook-app/dmson0lerp3iurc67fw8.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414792811"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6d"
+  },
+  "name": "MSI Gaming Radeon RX 6800 16GB GDRR6",
+  "description": [
+    "Chipset: Radeon RX 6800",
+    "Video Memory: 16GB GDDR6",
+    "Memory Interface: 256-bit",
+    "Output: DisplayPort x 3 (v1.4) / HDMI 2.1 x 1",
+    "Digital maximum resolution - 7680 x 4320"
+  ],
+  "price": 659.39,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414802/buildnook-app/hrwuhidgzn2ocutujsdv.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414804221"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6e"
+  },
+  "name": "ZOTAC GAMING GeForce GTX 1650 OC 4GB GDDR6",
+  "description": [
+    "New Turing Architecture",
+    "4GB 128-bit GDDR6",
+    "Super Compact 5.94-inch Card, Fits 99% of Systems",
+    "Dual slot, 4K Ready, PCI Bus Powered",
+    "DisplayPort 1.4, HDMI 2.0b, DL-DVI-D",
+    "Boost Clock 1620 MHz"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661414813/buildnook-app/uyh9eq8vus4nlcr1jqi5.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661414814782"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f6f"
+  },
+  "name": "ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB GDDR6",
+  "description": [
+    "NVIDIA Ampere architecture, 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores",
+    "12GB 192-bit GDDR6, 15 Gbps, PCIE 4.0; Boost Clock 1807 MHz",
+    "IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop, Metal Backplate",
+    "8K Ready, 4 Display Ready, HDCP 2.3, VR Ready",
+    "3 x DisplayPort 1.4a, 1 x HDMI 2.1, DirectX 12 Ultimate, Vulkan RT API, OpenGL 4.6"
+  ],
+  "price": 442.08,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415294/buildnook-app/kgdhifyryu89fho41otn.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415296250"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f70"
+  },
+  "name": "GIGABYTE AORUS GeForce RTX 3070 Ti Master 8G",
+  "description": [
+    "Digital Max Resolution:7680x4320.Form Factor:ATX",
+    "NVIDIA Ampere Streaming Multiprocessors",
+    "2nd Generation RT Cores",
+    "3rd Generation Tensor Cores",
+    "Powered by GeForce RTX 3070 Ti",
+    "Integrated with 8GB GDDR6X 256-bit memory interface"
+  ],
+  "price": 979.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415317/buildnook-app/whoonahatg520hjaf2rk.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415319408"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f71"
+  },
+  "name": "MSI Gaming GeForce RTX 3050 8GB GDRR6",
+  "description": [
+    "Chipset: GeForce RTX 3050",
+    "Video Memory: 8GB GDDR6",
+    "Memory Interface: 128-bit",
+    "Output: DisplayPort x 3 (v1.4a) / HDMI 2.1 x 1",
+    "Digital maximum resolution: 7680 x 4320"
+  ],
+  "price": 389.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415331/buildnook-app/m6cosmturpsfmwphizoa.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415333259"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f72"
+  },
+  "name": "GIGABYTE GeForce RTX 3050 Gaming OC 8G",
+  "description": [
+    "NVIDIA Ampere Streaming Multiprocessors",
+    "2nd Generation RT Cores",
+    "3rd Generation Tensor Cores",
+    "Powered by GeForce RTX 3050",
+    "Integrated with 8GB GDDR6 128-bit memory interface",
+    "WINDFORCE 3X Cooling System with alternate spinning fans",
+    "RGB Fusion 2.0",
+    "Protective back plate",
+    "2x HDMI 2.1, 2x Display Port 1.4a"
+  ],
+  "price": 379.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415350/buildnook-app/elcxnygifnolnilabuwh.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415351459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f73"
+  },
+  "name": "GIGABYTE GeForce RTX 3070 Ti Gaming OC 8G",
+  "description": [
+    "Digital Max Resolution:7680x4320.Form Factor:ATX",
+    "NVIDIA Ampere Streaming Multiprocessors",
+    "2nd Generation RT Cores",
+    "3rd Generation Tensor Cores",
+    "Powered by GeForce RTX 3070 Ti",
+    "Integrated with 8GB GDDR6X 256-bit memory interface"
+  ],
+  "price": 849.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415360/buildnook-app/yglhipjco91f3alqyiyn.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415361883"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f74"
+  },
+  "name": "MSI Computer Video Graphic Cards GeForce GTX 1050 TI GAMING X 4G",
+  "description": [
+    "Chipset: NVIDIA GeForce GTX 1050 It",
+    "Video memory: 4gb gddr5",
+    "Memory interface: 128-bit; Cores: 768 units",
+    "Max. resolution: 2560 x 1600 support 3x display monitors.",
+    "Card dimension (millimeter): 229 x 131 x 39. Digital maximum resolution: 7680 x 4320"
+  ],
+  "price": 239.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415376/buildnook-app/evx9tiny262pz2hn9cgc.jpg",
+  "categorie": "graphic-cards",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415378070"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f75"
+  },
+  "name": "Corsair Vengeance LPX 16GB (2x8GB) 3200",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 65.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415396/buildnook-app/ynpdwrokmmvzj8476rkl.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415397357"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f76"
+  },
+  "name": "Corsair Vengeance LPX 16GB (2x16GB) 3200",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 114.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415401/buildnook-app/ozynt9idocvybyz7ksbq.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415403273"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f77"
+  },
+  "name": "Corsair Vengeance LPX 64GB (2x 32GB) 3200",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 244.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415407/buildnook-app/vatryjulymm281nbcm7z.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415408811"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f78"
+  },
+  "name": "Corsair Vengeance LPX 16GB (2x8GB) 3600",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 67.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415415/buildnook-app/sedsaj3unikbbfntuwce.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415417204"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f79"
+  },
+  "name": "Corsair Vengeance LPX 32GB (2x16GB) 3600",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 117.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415421/buildnook-app/zctnlucjxzft895i70yf.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415423933"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7a"
+  },
+  "name": "Corsair Vengeance LPX 32GB (4x8GB) 3600",
+  "description": [
+    "Hand-sorted memory chips ensure high performance with generous Overclocking headroom. SPD Speed-2133MHz",
+    "Vengeance LPX is optimized for wide compatibility with the latest Intel and AMD DDR4 motherboards.",
+    "A low-profile height of just 34mm ensures that vengeance LPX even fits in most small-form-factor builds.",
+    "A high-performance PCB guarantees strong signal quality and stability for superior Overclocking ability.",
+    "A solid aluminum heatspreader efficiently dissipates heat from each module so that they consistently run at high clock speeds.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and setup.",
+    "Available in multiple colors to match the style of your system"
+  ],
+  "price": 144.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415429/buildnook-app/v2q0vcn9oxwh2irdaqri.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415430230"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7b"
+  },
+  "name": "Corsair Vengeance RGB Pro 32GB (2x16GB) DDR4 3200",
+  "description": [
+    "Dynamic Multi-Zone RGB Lighting: 10 Ultra-bright RGB LEDs per module.",
+    "Take control in CORSAIR iCUE software and synchronize lighting with other CORSAIR RGB products, including CPU coolers, keyboards and fans.",
+    "Custom Performance PCB provides the highest signal quality for the greatest level of performance and stability.",
+    "Tightly Screened Memory: Carefully screened ICs for extended overclocking potential.",
+    "Maximum Bandwidth and Tight Response Times Optimized for peak performance on the latest Intel and AMD DDR4 motherboards.",
+    "Requires no extra wires or cables for a clean and seamless install.",
+    "Maximum bandwidth and tight response time Optimized on the latest AMD and Intel DDR4 motherboards",
+    "Supports XMP 2.0: A single BIOS setting is all that’s required to set your memory to its ideal performance settings, for for optimum performance."
+  ],
+  "price": 132.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415440/buildnook-app/iijvjtbzm2msdrirl98n.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415441493"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7c"
+  },
+  "name": "G.Skill Trident Z NEO Series 128GB (4 x 32GB)",
+  "description": [
+    "Trident Z NEO Series, designed specifically for AMD Ryzen X570 and TRX40 Series; Intel X299, Z390, Z490 and newer.",
+    "128GB kit containing 4 x 32GB modules, DDR4-3600, 288-Pin, CAS Latency CL18 (18-22-22-42) at 1.35V",
+    "Brand: G.SKILL, Series: Trident Z NEO, Model: F4-3600C18Q-128GTZN",
+    "ECC: No, Quad Channel Kit, Recommended Use: High Performance or Gaming Memory",
+    "XMP profile support to reach up to the rated overclock speed, or run at default JEDEC profile speed",
+    "Rated XMP frequency & stability depends on MB & CPU capability"
+  ],
+  "price": 559.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415447/buildnook-app/tevon5vp7mytktcqaqqa.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415448555"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7d"
+  },
+  "name": "Corsair Vengeance RGB Pro 64GB (4x16GB) DDR4 3200",
+  "description": [
+    "High performance DDR4 memory illuminates your system with vivid, animated lighting from ten ultra-bright, individually addressable RGB LEDs per module.",
+    "Take control with CORSAIR iCUE software and synchronize lighting across all your CORSAIR iCUE compatible products, including memory, fans, coolers, keyboards and more.",
+    "Customize lighting profiles with millions of different patterns and colors, or create your own in CORSAIR iCUE software.",
+    "Compatible with Intel and AMD DDR4 motherboards.",
+    "Requires no extra wires or cables for a clean and seamless install.",
+    "Supports Intel XMP 2.0 for simple one-setting installation and optimum performance."
+  ],
+  "price": 279.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415454/buildnook-app/cbtrh8o1zx1na6kq9pgj.jpg",
+  "categorie": "ram",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415456000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7e"
+  },
+  "name": "Bgears b-Voguish Gaming PC with Tempered Glass ATX ",
+  "description": [
+    "Package weight : 15.3 Lbs",
+    "5mm thickness tempered glass Side window panel",
+    "Country of origin : China",
+    "Support water-cooling front-240mm top-240mm rear-120mm"
+  ],
+  "price": 60.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415469/buildnook-app/e6eqeuufyymsijl3ewqe.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415471026"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f7f"
+  },
+  "name": "MUSETEX ATX PC Case Mid-Tower",
+  "description": [
+    "The Choice of The Top Computer Case - MUSETEX NN8 has 6 ARGB fans supporting external expansion ARGB fan control board, and is equipped with superior magnetic tempered glass side doors. It is the best choice for you to create a high-end gaming desktop.",
+    "Compatible with Different Radiator - The top of the pc case is designed to fit 240mm / 280mm radiators. After installing the Radiator, the original 2 fans at the top can be installed at the above the power supply compartment to achieve more powerful cooling effect. And the radiator can be connected to the ARGB controller through 5V 3PIN to achieve 6 fans sync color.",
+    "More Storage Space - The mid tower pc case provides multiple hard drive fixed slots, supporting to install 4*SSD + 2*HDD or 5*SSD + 1*HDD."
+  ],
+  "price": 117.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415481/buildnook-app/dpovek0wk0tqjpcelyhf.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415483886"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f80"
+  },
+  "name": "ASUS TUF Gaming GT501 Mid-Tower",
+  "description": [
+    "Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel",
+    "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points",
+    "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water",
+    "Vertical GPU expansion slot Plus 7 Traditional expansion Slots",
+    "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"
+  ],
+  "price": 179.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415491/buildnook-app/qxzjytuxfebbw931ilk3.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415492432"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f81"
+  },
+  "name": "MUSETEX ATX PC Case with 6 Pcs 120mm ARGB Fans",
+  "description": [
+    "Amazing Remote Control - MUSETEX MN6 comes with its own ARGB fan remote control. You can easily control the fan speed, ARGB color mode and brightness. And the coolest features that other brands can't let you experience - let the light sync with your music by turning on the music mode. The color of the ARGB fan changes with the sound of your music or game, and enjoy the fusion of visual and auditory pleasure!",
+    "6 ARGB Fans - The MN6 case comes pre-installed with 6 ARGB fans, providing superior cooling performance. The more powerful ARGB comes in 16.8M colours and is motherboard SYNC with the MUSETEX dedicated ARGB control board pre-installed in the case. More color and fun can be to play with than normal RGB!",
+    "Brilliant Customizable Lighting - Addressable ARGB LEDs controlled with 3 methods. 1.Remote Control: MN6-B PC Case is equipped with a unique music panel, music sync; 2.LED Button Control: 19 lighting colors for LED button on the I/O panel; 3.Motherboard Control: Only when the 5V3PIN cable on the control board is connected to the motherboard can the ARGB light synchronization be realized. (Note: 12V 4PIN motherboard is not suitable for motherboard control, Button control is recommended.)"
+  ],
+  "price": 99.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415503/buildnook-app/jyrjqn0wdo7gcwbv8syf.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415505385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f82"
+  },
+  "name": "Antec DF700 Flux, Mid Tower Computer Case, ATX Gaming Case",
+  "description": [
+    "F-LUX Platform: Advanced case structure for excellent airflow + 5 x 120mm fans included",
+    "ARGB & PWM Fan Controller",
+    "Provide massive airflow to your components with room for up to 9 x 120mm fans",
+    "Supports a high-end GPU and provides the best cooling for it",
+    "Ready for a radiator up to 360mm in front, 360mm on top & 120mm in rear",
+    "With room for 2.5” SSDs: 3 & 3.5” HDDs/2.5” SSDs (convertible): 3/2",
+    "I/O panel dust plugs included"
+  ],
+  "price": 109.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415511/buildnook-app/tqjxarch1lbiqagvmeoi.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415513052"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f83"
+  },
+  "name": "MUSETEX ATX PC Case Mid-Tower with 6pcs 120mm ARGB Fans",
+  "description": [
+    "Amazing Remote Control - MUSETEX MN6 comes with its own ARGB fan remote control. You can easily control the fan speed, ARGB color mode and brightness. And the coolest features that other brands can't let you experience - let the light sync with your music by turning on the music mode. The color of the ARGB fan changes with the sound of your music or game, and enjoy the fusion of visual and auditory pleasure!",
+    "6 ARGB Fans - The MN6 case comes pre-installed with 6 ARGB fans, providing superior cooling performance. The more powerful ARGB comes in 16.8M colours and is motherboard SYNC with the MUSETEX dedicated ARGB control board pre-installed in the case. More color and fun can be to play with than normal RGB!",
+    "Brilliant Customizable Lighting - Addressable ARGB LEDs controlled with 3 methods. 1.Remote Control: MN6-B PC Case is equipped with a unique music panel, music sync; 2.LED Button Control: 19 lighting colors for LED button on the I/O panel; 3.Motherboard Control: Only when the 5V3PIN cable on the control board is connected to the motherboard can the ARGB light synchronization be realized. (Note: 12V 4PIN motherboard is not suitable for motherboard control, Button control is recommended.)"
+  ],
+  "price": 159.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415524/buildnook-app/bavpyncihom5io0evjtq.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415525053"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f84"
+  },
+  "name": "ASUS TUF Gaming GT501 Mid-Tower",
+  "description": [
+    "Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel",
+    "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points",
+    "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water",
+    "Vertical GPU expansion slot Plus 7 Traditional expansion Slots",
+    "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415535/buildnook-app/t4jfjsdbqfr659f3gxkw.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415536569"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f85"
+  },
+  "name": "ASUS TUF Gaming GT501 Mid-Tower",
+  "description": [
+    "Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel",
+    "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points",
+    "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water",
+    "Vertical GPU expansion slot Plus 7 Traditional expansion Slots",
+    "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415546/buildnook-app/ugtsm1aj5ronqyyqqrgq.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415547929"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6304fa58af67fa0b76a90f86"
+  },
+  "name": "ASUS TUF Gaming GT501 Mid-Tower",
+  "description": [
+    "Mid-tower with support for EATX motherboards featuring a metal chassis and panels with custom TUF gaming spatter pattern and 4mm-thick smoked, tempered-glass full view side panel",
+    "Keep your cool with three 120mm aura Sync rgb-illuminated fans, one 140mm rear PWM fan, and up to seven optional fan-mounting points",
+    "Custom Liquid Cooling ready with support for top or front mounted 360mm radiators, rear mounted 140mm radiator, and pre-drilled water",
+    "Vertical GPU expansion slot Plus 7 Traditional expansion Slots",
+    "Ergonomic, woven-cotton carry handles enable easy and safe transport up to 65lbs"
+  ],
+  "price": 199.99,
+  "image": "https://res.cloudinary.com/dvgkaovsk/image/upload/v1661415556/buildnook-app/zmucvuzkpx5durmroayz.jpg",
+  "categorie": "pc-tower",
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1661415557700"
+    }
+  }
+}]

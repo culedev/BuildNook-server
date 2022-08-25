@@ -36,15 +36,13 @@ router.post("/", async (req, res, next) => {
 
 // PATCH "/products/:productId" -> Edit product
 router.patch("/:productId", isAuthenticated, async (req, res, next) => {
-  const { name, description, price, image } = req.body;
+  const { image } = req.body;
+  console.log("AQUIII", image)
   const { productId } = req.params;
 
   try {
     await Product.findByIdAndUpdate(productId, {
-      name,
-      description,
-      price,
-      image,
+      image: image.imageUrl
     });
     res.json("Updated successfully");
   } catch (error) {
