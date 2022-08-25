@@ -3,7 +3,7 @@ const User = require("../models/User.model");
 const Transaction = require("../models/Transaction.model");
 const isAuthenticated = require("../middlewares/isAuthenticated");
 const stripe = require("stripe")(
-  "sk_test_51LZa7LDzSkiitMALne9TYMZ9R4ckWmn0wuhCH5XUvkGeqfsncpeYNUh56D5ID4ufGYwU72SPcRVcDuH6cDeBeLjy0023keda5g"
+  `${process.env.STRIPE_KEY}`
 );
 
 // GET "/transaction"
